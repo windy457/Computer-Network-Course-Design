@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main()
+int main()	//main函数
 {
 	cout<<"caonima!"<<endl;
 	return 0;
